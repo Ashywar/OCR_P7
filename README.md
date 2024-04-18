@@ -17,7 +17,7 @@ $ git clone https://github.com/Ashywar/OCR_P7
 $ python3 -m venv env  
 $ env/scripts/activate  
 $ pip3 install -r requirements.txt   
-
+```
 ## LAUNCH 
 
 Run the program
